@@ -20,11 +20,17 @@
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 <img src="https://img.shields.io/badge/Naver Maps API-03C75A?style=flat-square&logo=naver&logoColor=white"/>
 
-**Back-end**: Spring Boot, IntelliJ
-spring boot : <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-intellij : ![intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+**Back-end**: 
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+![intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-**Infra**: AWS (EC2, RDS MySQL, VPC, S3)
+**Infra**:
+AWS : ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+EC2 : <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat-square&logo=ec2&logoColor=white"/>
+RDS : <img src="https://img.shields.io/badge/amazonrds-527FFF?style=flat-square&logo=rds&logoColor=white"/>
+MySQL ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+S3 <img src="https://img.shields.io/badge/amazons3-569A31?style=flat-square&logo=s3&logoColor=white"/>
+
 
 # 사용 언어
 
