@@ -17,7 +17,7 @@
 
 **Front-end**: 
 <a href="http://www.w3.org/2000/svg"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
-<a href="[https://img.icons8.com](http://www.w3.org/2000/svg)"><img src="https://img.shields.io/badge/vsCode-29B6F6?style=flat-square&logo=vscode&logoColor=white"/></a>
+<a href="http://www.w3.org/2000/svg"><img src="https://img.shields.io/badge/vsCode-29B6F6?style=flat-square&logo=vscode&logoColor=white"/></a>
 <a href="http://www.w3.org/2000/svg"><img src="https://img.shields.io/badge/Naver Maps API-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 
 **Back-end**: 
