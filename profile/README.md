@@ -21,6 +21,8 @@
 <img src="https://img.shields.io/badge/Naver Maps API-03C75A?style=flat-square&logo=naver&logoColor=white"/>
 
 **Back-end**: Spring Boot, IntelliJ
+spring boot : <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+intellij : ![intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 **Infra**: AWS (EC2, RDS MySQL, VPC, S3)
 
