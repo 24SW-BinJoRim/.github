@@ -13,7 +13,7 @@
 |테스트1|테스트2|테스트3|
 
 
-# 🐧 개발 환경
+# 💻 개발 환경
 
 **Front-end**: 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
@@ -32,8 +32,7 @@
 <img src="https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=vpc&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
 
-
-# 사용 언어 :
+**Programming Language**:
 <img src="https://img.shields.io/badge/Java-F44336?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascripts-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
