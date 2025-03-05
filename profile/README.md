@@ -16,20 +16,22 @@
 # 🐧 개발 환경
 
 **Front-end**: 
-<a href="http://www.w3.org/2000/svg"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
-<a href="http://www.w3.org/2000/svg"><img src="https://img.shields.io/badge/vsCode-29B6F6?style=flat-square&logo=vscode&logoColor=white"/></a>
-<a href="http://www.w3.org/2000/svg"><img src="https://img.shields.io/badge/Naver Maps API-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/vsCode-29B6F6?style=flat-square&logo=vscode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Naver Maps API-03C75A?style=flat-square&logo=naver&logoColor=white"/>
+
+
 
 **Back-end**: 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 ![intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 **Infra**:
-![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=ec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=rds&logoColor=white"/>
+![aws](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=s3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
 
 
 # 사용 언어
