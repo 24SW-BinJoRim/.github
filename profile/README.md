@@ -34,8 +34,7 @@
 
 
 # 사용 언어
-Java, Javascripts, HTML, CSS
-<img src="https://img.shields.io/badge/Java-F44336?style=flat-square&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-F44336?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascripts-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white"/>
